@@ -1,0 +1,8 @@
+{
+  "name": "PrivacyGuard AI Chatbot",
+  "description": "An intelligent RAG-powered chatbot specialized in International Data Privacy, built for the Domo platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
